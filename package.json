@@ -1,0 +1,11 @@
+{
+  "name": "infoware",
+  "version": "1.0.0",
+  "description": "APIs endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "author": "sainiprathmesh",
+  "license": "ISC"
+}
